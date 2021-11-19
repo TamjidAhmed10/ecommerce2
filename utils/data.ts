@@ -1,0 +1,87 @@
+export const data = {
+  products: [
+    {
+      name: "A wild exp",
+      catagory: "e1",
+      image: "/images/photo-1.jpeg",
+      price: 100,
+      brand: "e1",
+      rating: 4.5,
+      numReviews: 10,
+      countInStock: 6,
+      description: "Sed ut perspiciatis",
+    },
+    {
+      name: "unde omnis ",
+      catagory: "e1",
+      image: "/images/photo-2.jpeg",
+      price: 100,
+      brand: "e1",
+      rating: 4.5,
+      numReviews: 10,
+      countInStock: 6,
+      description:
+        "error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    },
+    {
+      name: "Nemo enim ",
+      catagory: "e1",
+      image: "/images/photo-3.jpeg",
+      price: 100,
+      brand: "e1",
+      rating: 4.5,
+      numReviews: 10,
+      countInStock: 6,
+      description:
+        "ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi",
+    },
+    {
+      name: "Neque porro",
+      catagory: "e1",
+      image: "/images/photo-4.jpeg",
+      price: 100,
+      brand: "e1",
+      rating: 4.5,
+      numReviews: 10,
+      countInStock: 6,
+      description:
+        "quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam ",
+    },
+    {
+      name: "eius modi tempora",
+      catagory: "e1",
+      image: "/images/photo-5.jpeg",
+      price: 100,
+      brand: "e1",
+      rating: 4.5,
+      numReviews: 10,
+      countInStock: 6,
+      description:
+        "incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ",
+    },
+    {
+      name: "ullam corporis",
+      catagory: "e1",
+      image: "/images/photo-6.jpeg",
+      price: 100,
+      brand: "e1",
+      rating: 4.5,
+      numReviews: 10,
+      countInStock: 6,
+      description:
+        "suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse",
+    },
+    {
+      name: "quam nihil ",
+      catagory: "e1",
+      image: "/images/photo-7.jpeg",
+      price: 100,
+      brand: "e1",
+      rating: 4.5,
+      numReviews: 10,
+      countInStock: 6,
+      description:
+        "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound ",
+    },
+  ],
+};

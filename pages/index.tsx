@@ -1,9 +1,16 @@
-const Home = () => {
+import { NextPage } from "next";
+import Footer from "../components/Footer";
+import Navbar from "../components/Navbar";
+import Products from "../components/Products";
+
+const Home: NextPage = () => {
   return (
     <div>
-      Hello
+      <Navbar />
+      <Products  />
+   
     </div>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
