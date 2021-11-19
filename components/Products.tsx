@@ -18,7 +18,7 @@ const Products = () => {
 
               <div className="card-actions items-center">
                 <p>${item.price}</p>
-                <p>Add to Cart</p>
+                <p>Add to Cart </p>
               </div>
             </div>
           </div>
